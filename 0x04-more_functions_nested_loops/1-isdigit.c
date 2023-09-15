@@ -2,26 +2,12 @@
 /**
  * _isdigit - to checks for a digit
  * Return: 1 for a success and 0 for a failure
- * @c: variable text
+ * @c: inter to be checked
  */
 
-int	_isdigit(int c)
+int _isdigit(int c)
 {
-	char c;
 
-	if
-		(c >= 48 && c <= 57);
-	{
-		return (1);
-	}
-	else
-	{
-		return (0);
-	}
-
-
-
-
+return (c >= '0' && c <= '9');
 }
-
 
