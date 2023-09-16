@@ -2,8 +2,8 @@
 /**
  * mul - to multiply two intigers
  * Return: 0
- * @ a: a- variable
- * @ b: variable
+ * @ a: a - variable
+ * @ b: b - variable
  */
 
 int mul(int a, int b)
